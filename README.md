@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 *Dark* is one of the most cast-intensive TV shows ever made, featuring 150+ main characters and 80+ supporting cast members spread across multiple timelines and generations. This project applies **network analysis** and **mathematical graph theory** to uncover hidden connections, identify key characters, and visualize the complex relationship structure of the show.
 
